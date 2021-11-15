@@ -1,0 +1,19 @@
+{
+  "name": "leapyear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelangelmosb/LeapYear.git"
+  },
+  "author": "Miguel Mosquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelangelmosb/LeapYear/issues"
+  },
+  "homepage": "https://github.com/miguelangelmosb/LeapYear#readme"
+}
